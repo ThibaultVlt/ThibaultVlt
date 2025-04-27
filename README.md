@@ -4,7 +4,7 @@
 
 ## ☕ À propos de moi
 
-- 🕵️‍♂️ **Je suis développeur web junior** encore en formation au sein de l'AFPA.  
+- 🕵️‍♂️ **Je suis développeur web junior**.  
   💡 Passionné par la création de solutions web intuitives et élégantes, je m'efforce d'apprendre et d'améliorer mes compétences chaque jour.
 
 - 🌐 **J'ai un parcours atypique !**  
